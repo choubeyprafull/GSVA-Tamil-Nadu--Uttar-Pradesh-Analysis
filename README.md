@@ -16,6 +16,9 @@ The Power BI dashboard highlights:
 - Sectoral Composition of GSVA
 - Tamil Nadu vs Uttar Pradesh GSVA Share Comparison
 
+### 📈 Dashboard Files
+- [Power BI Dashboard (.pbix)](dashboard/GSVA_TN_UP.pbix)
+  
 ### 🔹 Preview
 ![Dashboard Screenshot](dashboard/GSVA_TN_UP.png)
 
