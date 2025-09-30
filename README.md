@@ -20,9 +20,6 @@ The Power BI dashboard highlights:
 - [GSVA.xlsx](GSVA.xlsx)
 - [UP_TN_GSVA_data.xlsx](UP_TN_GSVA_data.xlsx)
 
-## 📈 Dashboard Files
-- [Power BI Dashboard (.pbix)](dashboardGSVA_TN_UP.pbix) 
-
 ---
 
 ## 🔹 Dashboard Preview
